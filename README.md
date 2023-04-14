@@ -1,5 +1,11 @@
 # Artificial General Intelligence : An Ambitious Reading List
 ---
+## Intoductory guides
+- [ ] Artificial Intelligence A guide for thinking humans by Melanie Mitchell
+- [ ] Introducing Grachical guide series
+	- [x] Consciousness
+	- [x] Semiotics
+	- [x] Artificial Intelligence
 
 ## [Goertzel's curriculum](http://wp.goertzel.org/agi-curriculum/) 
 
