@@ -6,6 +6,9 @@
 	- [x] Consciousness
 	- [x] Semiotics
 	- [x] Artificial Intelligence
+- [ ] A very Short Introduction
+	- [ ] Cognitive Neuroscience
+ 	- [ ] Linguistics  	
 
 ## [Goertzel's curriculum](http://wp.goertzel.org/agi-curriculum/) 
 
@@ -14,21 +17,27 @@
 	- [ ] [*What Computers Still Can’t Do (1972)*]( https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/01_HistoryOfAI/WhatComputersCantDo.pdf)
 
 - [ ] **AI Algorithms, Structures and Methods**
-	- [ ] [*AI : A Modern Approach, Russel and Norvig*](https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/02_AI_Algorithms%20StructuresAndMethods/Artificial%20Intelligence%20A%20Modern%20Approach%203rd%20Edition.pdf)
+	- [x] [*AI : A Modern Approach, Russel and Norvig*](https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/02_AI_Algorithms%20StructuresAndMethods/Artificial%20Intelligence%20A%20Modern%20Approach%203rd%20Edition.pdf)
 	- [ ] The Design of Innovation, David Goldberg
 	- [ ] [*Introduction to Evolutionary Computing*](https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/02_AI_Algorithms%20StructuresAndMethods/IntroToEvolutionaryComputing.pdf)
 	- [ ] Neural Networks and Learning Machines
 	- [ ] Foundations of Language, Ray Jackendoff
 	- [ ] Speech and Language Processing, Jurafsky and Martin
 
-- [ ] **Neuroscience and Cognitive Psychology**
+- [ ] **Neuroscience ,Cognitive Psychology and Linguistics**
 	- [ ] Neuroscience : Exploring the Brain
 	- [ ] Fundamentals of Cognitive Psychology
 	- [ ] Developmental Cognitive Neuroscience
 	- [ ] Constructing a Language
 	- [ ] Action in Perception
 	- [ ] The Vision Revolution
-	- [ ] On Intelligence 
+	- [ ] On Intelligence
+ 	- [ ] The Symbolic Species
+  	- [ ] Pragmatism and Embodied Cognitive Science
+  	- [ ] Context Changes Everything
+  	- [ ] Principles of Neural Science
+  	- [ ] From Neuron to Cognition via Computational Neuroscience
+       
 
 - [ ] **Philosophy of Mind**
 	- [ ] The Hidden Pattern
